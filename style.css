@@ -362,10 +362,9 @@ footer nav ul li a {
    
     color: white;
 }
-footer nav ul li a:last-child{
+.footerbox1 nav ul li a:last-child{
    
-     border-right: none;
-}
+     border-right: none;}
 .footerbox2 {
     
    
